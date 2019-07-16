@@ -1,4 +1,4 @@
 # goldenangle
 
 View here:
-[https://github.com/jesseconnell/goldenangle/]
+[https://jesseconnell.github.io/goldenangle/]
